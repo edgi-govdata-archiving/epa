@@ -1,3 +1,16 @@
+# DEPRECIATED
+
+## moved 
+
+[sitemapper](https://github.com/edgi-govdata-archiving/sitemapper) 
+
+----
+
+
+----
+
+
+
 # overview
 
 Attempts to create a sitemap for www.epa.gov
